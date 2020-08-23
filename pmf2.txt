@@ -1,0 +1,3 @@
+assignedDNS>reception,0.4
+assignedDNS>breakRM,0.3
+assignedDNS>ns,0.3
